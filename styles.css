@@ -1,13 +1,13 @@
 body {
   text-align: center;
-  background-color: #283149;
+  background-color: #221e58;
 }
 
 h1 {
   font-size: 5rem;
   color: #DBEDF3;
   font-family: "Arvo", cursive;
-  text-shadow: 3px 0 #DA0463;
+  text-shadow: 3px 0 #404B69;
 
 }
 
@@ -69,7 +69,7 @@ background-image: url("images/tom1.png");
   font-family: 'Arvo', cursive;
   line-height: 2;
   font-weight: 900;
-  color: #DA0463;
+  color: #221e58;
   text-shadow: 3px 0 #DBEDF3;
   border-radius: 15px;
   display: inline-block;
